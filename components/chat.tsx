@@ -48,7 +48,7 @@ export default function Chat() {
             </AvatarFallback>
           </Avatar>
           <div>
-            <h2 className="font-semibold text-gray-900 text-sm sm:text-base">AI Assistant</h2>
+            <h2 className="font-semibold text-gray-900 text-sm sm:text-base">Charoro GPT</h2>
             <div className="flex items-center space-x-1">
               <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               <span className="text-xs sm:text-sm text-gray-500">Online</span>
@@ -66,7 +66,7 @@ export default function Chat() {
             <div className="w-12 h-12 sm:w-16 sm:h-16 bg-purple-100 rounded-full flex items-center justify-center mb-3 sm:mb-4">
               <Bot className="h-6 w-6 sm:h-8 sm:w-8 text-purple-600" />
             </div>
-            <h3 className="text-base sm:text-lg font-semibold text-gray-900 mb-2">AI Assistant</h3>
+            <h3 className="text-base sm:text-lg font-semibold text-gray-900 mb-2">Charoro GPT</h3>
             <p className="text-sm sm:text-base text-gray-500 max-w-sm">
               안녕하세요! 무엇을 도와드릴까요? 질문을 입력해주세요.
             </p>
